@@ -1,0 +1,119 @@
+a {
+    color: white;
+    border-right: 5px;
+}
+
+.borderleft {
+    border-left: 2px solid rgb(204, 202, 202);
+    padding-left: 5px;
+}
+
+.fbinsta {
+    width: 21px;
+    padding-left: 5px;
+    border-radius: 100%;
+    margin-bottom: 5px;
+}
+
+.tbhttvtk {
+    padding-right: 10px;
+}
+
+.search {
+    width: 20px;
+    height: 20px;
+}
+
+.fontsize {
+    padding: 5px;
+    font-size: 12px;
+}
+
+.danhmuc {
+    margin-left: 208px;
+    margin-top: 15px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.timkiem {
+    width: 66px;
+    height: 35px;
+    margin-left: 193px;
+    margin-top: 9px;
+    border: rgb(235, 89, 45);
+    border-radius: 5%;
+}
+
+li {
+    list-style-type: none;
+}
+
+.border {
+    height: 45px;
+    width: 45px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 30%;
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.menu {
+    width: 100px;
+}
+
+.category {
+    height: 382px;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.dm {
+    height: 60px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.border1 {
+    height: 70px;
+    width: 70px;
+    border-width: 0px;
+    border-style: groove;
+    border-radius: 100%;
+    margin-top: 15px;
+    margin-left: 10px;
+    background-color: rgb(247, 240, 240);
+}
+
+.slide1 {
+    background-color: white;
+    width: 739px;
+    height: 235px;
+    margin-top: 30px;
+}
+
+.img1 {
+    padding-top: 7px;
+}
+
+.header {
+    background-color: rgb(231, 76, 48);
+}
